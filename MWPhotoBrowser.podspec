@@ -19,12 +19,12 @@ Pod::Spec.new do |s|
     'https://raw.github.com/mwaterfall/MWPhotoBrowser/master/Screenshots/MWPhotoBrowser6.png'
   ]
 
-  s.homepage = 'https://github.com/mwaterfall/MWPhotoBrowser'
-  s.author = { 'Michael Waterfall' => 'michaelwaterfall@gmail.com' }
+  s.homepage = 'https://github.com/TDGYL/MWPhotoBrowser'
+  s.author = { 'TDGYL' => '13634150361@163.com' }
   s.social_media_url = 'https://twitter.com/mwaterfall'
 
   s.source = {
-    :git => 'https://github.com/miaomaocat/MWPhotoBrowser.git',
+    :git => 'https://github.com/TDGYL/MWPhotoBrowser.git',
     :tag => '2.1.3-alimail'
   }
   s.platform = :ios, '7.0'
