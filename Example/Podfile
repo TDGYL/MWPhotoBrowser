@@ -11,6 +11,6 @@ target 'MWPhotoBrowser_Tests', :exclusive => true do
   pod 'Expecta'
   pod 'FBSnapshotTestCase'
   pod 'Expecta+Snapshots'
-      pod 'SDWebImage',           '~> 4.2.2'
+      pod 'SDWebImage',           '5.3.1'
 
 end
